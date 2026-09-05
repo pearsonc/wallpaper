@@ -13,8 +13,6 @@ cd ~/Pictures # You can also choose a different location
 git clone --depth=1 https://github.com/pearsonc/wallpaper.git
 cd wallpaper/
 ```
-If you are using the ML4W Dotfiles for Hyprland, you can select the the new wallpaper folder with Waypaper.
-
 ## Update
 
 You can update the wallpapers with
